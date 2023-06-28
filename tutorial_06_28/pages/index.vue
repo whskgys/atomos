@@ -3,7 +3,7 @@
     이것은 테스트 입니다.
     <br />
     <div v-if="ip_addr">당신의 ip주소는 {{ ip_addr }}입니다.</div>
-    <div v-else>IP주소 로딩 중입니다!!</div>
+    <div v-else>IP주소 로딩 중입니다!!@@</div>
   </div>
 </template>
 
